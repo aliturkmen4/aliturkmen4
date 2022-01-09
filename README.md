@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Ali
 #### Welcome to my Github Account!
 I graduated from Electrical&Electronics Engineering in October 2021.🎓
+
 I constantly improving myself in Back-End Development since October 2021 via bootcamps and courses.
 
 Skills: C / C# / SQL / HTML / CSS
