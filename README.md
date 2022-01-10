@@ -10,6 +10,7 @@ I constantly improving myself in Back-End Development since last October.
 
 - 🌱 I’m currently learning .NET, Design Patterns, UML 
 
+<h3 align="left">Connect with me:</h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aliturkmen4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aliturkmenn/)  
 
