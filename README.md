@@ -1,5 +1,8 @@
 ### **Hi there 👋, My name is Ali**
 ### **Welcome to my Github Account!**
+
+<img align="mid" width="400px" src="https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2020/07/01042541/png15879705155779.jpg"/>
+
 I graduated from Electrical&Electronics Engineering in October 2021.
 
 I constantly improving myself in Back-End Development since last October.
