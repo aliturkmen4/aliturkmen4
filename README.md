@@ -6,7 +6,7 @@
 
 **I constantly improving myself in Back-End Development since last October.**
 
-<h3 align="left">Languages and Tools:</h3>
+**<h3 align="left">Languages and Tools:</h3>**
 <img align="left" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
  <img align="left" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
