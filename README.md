@@ -2,9 +2,9 @@
 
 ### **Welcome to my Github Account!**
 
-**I graduated from Electrical&Electronics Engineering in October 2021.**
+**I graduated from Electrical&Electronics Engineering in October 2021**
 
-**I constantly improving myself in Back-End Development since last October.**
+**I constantly improving myself in Back-End Development since last October**
 
 **<h3 align="left">Languages and Tools:</h3>**
 <img align="left" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
