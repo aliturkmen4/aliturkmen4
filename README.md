@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliturkmen4&label=Profile%20views&color=0e75b6&style=flat" alt="aliturkmen4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliturkmen4" alt="aliturkmen4" /></a> </p>
-
 - 🌱 I’m currently learning **Selenium,JUnit,TestNG,Cucumber BDD,Robot Framework**
 
 - 📫 How to reach me **aliturkmenn9@gmail.com**
@@ -20,7 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliturkmen4&show_icons=true&theme=dracula&locale=en&layout=compact" alt="aliturkmen4" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliturkmen4&show_icons=true&theme=radical&locale=en" alt="aliturkmen4" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliturkmen4&theme=dark" alt="aliturkmen4" /></p>
 
 
