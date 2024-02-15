@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Türkmen</h1>
 <h3 align="center">Software Test Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliturkmen4&label=Profile%20views&color=0e75b6&style=flat" alt="aliturkmen4" /> </p>
-
 - 🌱 I’m currently learning **Selenium,JUnit,TestNG,Cucumber BDD,Robot Framework**
 
 - 📫 How to reach me **aliturkmenn9@gmail.com**
