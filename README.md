@@ -8,7 +8,7 @@
 - 📫 How to reach me **aliturkmenn9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div>
 <a href="https://github.com/aliturkmen4" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
