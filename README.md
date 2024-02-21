@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliturkmen4&label=Profile%20views&color=0e75b6&style=flat" alt="aliturkmen4" /> </p>
 
 - 🌱 I’m currently learning **Selenium,JUnit,TestNG,Cucumber BDD,Robot Framework**
-- 🔭 I’m currently working on [Test Automation](https://github.com/aliturkmen4/SeleniumWebDriverTestOtomasyonu-JUnit)
+- 🔭 I’m currently working on [Test Automation](https://github.com/aliturkmen4/SeleniumWebDriverTestOtomasyonu-TestNG)
 
 - 📫 How to reach me **aliturkmenn9@gmail.com**
 
